@@ -1,4 +1,4 @@
-[![Maintained by Seifrajhi](https://img.shields.io/badge/maintained%20by-gruntwork.io-%235849a6.svg)](https://twitter.com/RajhiSaifeddine)
+[![Maintained by Seifrajhi](https://img.shields.io/badge/maintained%20seif-rajhi-%235849a6.svg)](https://twitter.com/RajhiSaifeddine)
 # Python Commons
 
 This repo contains a collection of reusable Bash functions for handling common tasks such as logging, assertions,
